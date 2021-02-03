@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Richard Rose",
-    "occupation": "React Developer",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "ReactJS",
+    "description": "",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Rich! I am currently learning react and looking to enter the web dev community as a frontend focused ReactJS developer.",
-    "contactmessage": "Please contact me for a copy of my resume!",
+    "contactmessage": "",
     "email": "richardrose@gmail.com",
     "phone": "+44 7503514732",
     "address": {
